@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+.blu {
+            background-color: blue;
+            color: darkblue;
+        }
+        
+        .red {
+            background-color: red;
+            color: darkred;
+        }
+        .yello {
+            background-color: yellow;
+            color: orange;
+        }
+        p {
+            text-align: center;
+        }
