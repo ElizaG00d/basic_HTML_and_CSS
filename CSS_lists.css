@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* change list style type of ul and ol*/
+
+ul {
+    list-style-type: circle;
+}
+
+ol {
+    list-style-type: lower-roman;
+}

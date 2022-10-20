@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*background color, font color, hover selector, border*/
+
+.op {
+    background-color: cornflowerblue;
+    color: brown;
+}
+.meg {
+    background-color: darkorchid;
+}
+.bee {
+    background-color: yellow;
+}
+
+td:hover {
+    background-color: darkred;
+    color: darkgray;
+}
+table {
+    background-color: darkslategray;
+    border: 2px black;
+    width: 50%;
+}
+
+h2 {
+    
+}
