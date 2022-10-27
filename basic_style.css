@@ -59,7 +59,7 @@ h1 {
     background-color: #00b200;
 }
 
-/*HOVER EFFECTS*/
+/*HOVER EFFECTS*/ /*second image still not showing*/
 .container .squares:nth-child(-n+4):hover {
     background-image: url("imgs/icons/icons2.png");
     transform: scale(.5);
