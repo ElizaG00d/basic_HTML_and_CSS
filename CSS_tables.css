@@ -3,22 +3,22 @@
 
 /*background color, font color, hover selector, border*/
 
-.op {
+. op {
     background-color: cornflowerblue;
     color: brown;
 }
-.meg {
+. meg {
     background-color: darkorchid;
 }
-.bee {
+. bee {
     background-color: yellow;
 }
 
-td:hover {
+t d:hover {
     background-color: darkred;
     color: darkgray;
 }
-table {
+t able {
     background-color: darkslategray;
     border: 2px black;
     width: 50%;
